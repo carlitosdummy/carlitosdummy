@@ -10,7 +10,7 @@ impl Developer for AboutMe {
 
     fn skills(&self) -> Skills {
         Skills {
-            languages: vec!["python", "rust", "java", "C"],
+            languages: vec!["python", "rust", "java", "html", "css"],
         }
     }
 }
