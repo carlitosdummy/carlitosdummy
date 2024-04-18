@@ -1,17 +1,5 @@
-```rust
-impl Developer for AboutMe {
-    fn about_me(&self) -> AboutMe {
-        AboutMe {
-            name: "dummy",
-            area: "cs",
-            age: 20,
-        }
-    }
+<p align="center" width="300">
+   <img align="center" width="200" src="/pp.png" />
+   <h3 align="center">¡Hi, I'm Dummy 🤓☝🏽</h3>
+</p>
 
-    fn skills(&self) -> Skills {
-        Skills {
-            languages: vec!["python", "rust", "java", "html", "css"],
-        }
-    }
-}
-```
